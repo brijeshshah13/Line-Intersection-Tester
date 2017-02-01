@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\bin\Debug\LineIntersectionTester.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\bin\Debug\LineIntersectionTester.exe
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\bin\Debug\LineIntersectionTester.pdb
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\bin\Debug\ProjectLibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\bin\Debug\ProjectLibrary.pdb
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\obj\Debug\LineIntersectionTester.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\obj\Debug\LineIntersectionTester.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\obj\Debug\LineIntersectionTester.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\obj\Debug\LineIntersectionTester.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\obj\Debug\LineIntersectionTester.exe
+c:\users\dell\documents\visual studio 2015\Projects\LineIntersectionTester\LineIntersectionTester\obj\Debug\LineIntersectionTester.pdb

@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Project\ProjectLibrary\bin\Debug\ProjectLibrary.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Project\ProjectLibrary\bin\Debug\ProjectLibrary.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Project\ProjectLibrary\obj\Debug\ProjectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Project\ProjectLibrary\obj\Debug\ProjectLibrary.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Project\ProjectLibrary\obj\Debug\ProjectLibrary.pdb
